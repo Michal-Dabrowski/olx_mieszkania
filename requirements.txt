@@ -7,7 +7,7 @@ idna==2.6
 keyring==10.4.0
 pbr==3.1.1
 pywin32-ctypes==0.1.2
-requests==2.18.4
+requests==2.20.0
 six==1.11.0
 SQLAlchemy==1.1.14
 sqlalchemy-migrate==0.11.0
